@@ -1,0 +1,11 @@
+﻿@model MovieShop.Entities.Movie
+
+<div class="card mb-4 shadow bg-light">
+
+
+    <a href="@Url.Action("Details", "Movies", new {id = Model.Id})">
+        <img src="@Url.Content(Model.PosterUrl)" class="img-fluid " />
+    </a>
+
+</div>
+

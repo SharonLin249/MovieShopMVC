@@ -1,0 +1,14 @@
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Sevices.dll
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Sevices.pdb
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Data.dll
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Entities.dll
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Data.pdb
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\obj\Debug\MovieShop.Sevices.csprojAssemblyReference.cache
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\obj\Debug\MovieShop.Sevices.csproj.CopyComplete
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\obj\Debug\MovieShop.Sevices.dll
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\obj\Debug\MovieShop.Sevices.pdb
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\EntityFramework.dll
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Data.dll.config
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\MovieShop.Entities.dll.config
+C:\Users\Sin-Ying Lin\source\repos\MovieShop.MVC\MovieShop.Sevices\bin\Debug\EntityFramework.xml

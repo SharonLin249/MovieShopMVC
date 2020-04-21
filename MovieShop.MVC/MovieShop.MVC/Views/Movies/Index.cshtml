@@ -1,0 +1,28 @@
+﻿
+@model List<MovieShop.Entities.Movie>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<table class = "table">
+    <tr>
+        <td> Id   </td>
+        <td> Title   </td>
+        <td> Revenue   </td>
+        <td> Budget   </td>
+    </tr>
+
+    <tbody>
+        @foreach (var movie in Model) //razer index, Model represents view retrun 
+        {
+            <tr>
+                <td>@movie.Id </td>
+                <td>@movie.Title</td>
+                <td>@movie.Revenue</td>
+                <td>@movie.Budget</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
